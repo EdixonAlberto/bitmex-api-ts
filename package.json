@@ -1,0 +1,26 @@
+{
+  "name": "bitmex-api-ts",
+  "version": "0.0.1",
+  "description": "bitmex api created with typescript",
+  "main": "./src/index.ts",
+  "author": {
+    "name": "Edixon Alberto",
+    "email": "contact@edixonalberto.com"
+  },
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "ts-node src"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/node": "^13.7.1",
+    "prettier": "^1.19.1",
+    "request": "^2.88.2",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  }
+}
