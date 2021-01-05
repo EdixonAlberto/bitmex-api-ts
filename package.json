@@ -13,7 +13,7 @@
     "start": "ts-node src"
   },
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "@types/axios": "^0.14.0",
